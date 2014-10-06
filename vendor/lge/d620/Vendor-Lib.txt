@@ -1,0 +1,22 @@
+libalarmservice_jni.so   lib-imsvt.so              libSHIMDivxDrm.so
+libc2d2_z180.so          lib-imsxml.so             libspl_proc_plugin.so
+libc2d30-a4xx.so         liblgewebviewchromium.so  libsrsprocessing.so
+libcneconn.so            libmmQSM.so               libssd.so
+libcneqmiutils.so        libmmQTA.so               libSSEPKCS11.so
+libcneutils.so           libmsapm_jni.so           libStDrvInt.so
+libCommandSvc.so         libnetxt_plugin_proxy.so  libstlport_sh_r8e.so
+libcsd-client.so         liboi_sbc_decoder.so      libsubsystem_control.so
+libdrmdecrypt.so         libP11Notify.so           libSubSystemShutdown.so
+libdrmdiag.so            libpp_proc_plugin.so      libsweskia.so
+libdrmfs.so              libprdrmdecrypt.so        libswev8.so
+libdrmtime.so            libqc-opt.so              libtcp_connections_plugin.so
+libExtendedExtractor.so  libqmodem_plugin.so       libtcp_fin_aggregation_plugin.so
+libFileMux.so            lib-rcsimssjni.so         libtzdrmgenprov.so
+libHevcSwDecoder.so      lib-rcsjni.so             libtzplayready.so
+libI420colorconvert.so   libredirect_plugin.so     libwfdcommonutils.so
+lib-imsqimf.so           librpmb.so                libwvdrm_L3.so
+lib-imsrcs.so            libsc-a2xx.so             libxml.so
+lib-imsSDP.so            libsensor_test.so
+lib-imss.so              libsensor_user_cal.so
+
+
